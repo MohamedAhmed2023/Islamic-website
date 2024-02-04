@@ -354,6 +354,7 @@ section h3::before {
 
 .surah-popup {
     background-color: #424242;
+    z-index: 200000000;
 }
 
 .surah-popup .ayat p {
